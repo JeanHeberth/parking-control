@@ -17,6 +17,4 @@ public class ParkingSpotController {
 
     }
 
-//fadafdaf
-//4564564654654564654565123132
 }
